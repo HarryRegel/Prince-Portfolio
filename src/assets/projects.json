@@ -1,0 +1,109 @@
+[
+  {
+    "title": "AudiHealth",
+    "description": "AudiHealth is a machine learning-based application designed to detect voice pathologies, specifically vocal polyp and laryngitis, using audio data. Leveraging the power of VGGish for feature extraction and a Liquid State Machine (LSM) model for classification, AudiHealth aims to provide early detection capabilities, potentially improving patient outcomes.",
+    "source": "https://github.com/pkprajapati7402/audihealth-frontend",
+    "demo": "https://audihealth-frontend.vercel.app",
+    "platform": "ai",
+    "language": "TypeScript, Flask",
+    "likes": 3,
+    "forks": 1,
+    "tags": ["Machine-Learning", "TypeScript", "Healthcare"]
+  },
+  {
+    "title": "MockQuero",
+    "description": "MockQuero is an intelligent job interview preparation platform designed to help candidates practice and enhance their interview skills through realistic mock interviews, personalized feedback, and performance insights.",
+    "source": "https://github.com/pkprajapati7402/MockQuero",
+    "demo": "https://tinyurl.com/MockQuero",
+    "platform": "ai",
+    "language": "Typescript, Flask",
+    "likes": 1,
+    "forks": 1,
+    "tags": ["AI-Agents", "Node.js", "NextJs"]
+  },
+  {
+    "title": "MindMedix",
+    "description": "An Intelligent Eye That Perceives Brain Disease with accuracy for Understaffed Hospitals, Fast Process.",
+    "source": "https://github.com/pkprajapati7402/MindMedix",
+    "demo": "https://tinyurl.com/NeurogenAI",
+    "platform": "ai",
+    "language": "Python, Javascript",
+    "likes": 3,
+    "forks": 4,
+    "tags": ["AI", "Research", "Machine-Learning", "Gen-AI"]
+  },
+  {
+    "title": "Decentralized Peyroll System",
+    "description": "A Modern and Decentralized Blockchain Powerd Peyroll Automater for on Chain payments.",
+    "source": "https://github.com/pkprajapati7402/Decentralized-PeyRoll",
+    "demo": "https://peyroll.vercel.app/",
+    "platform": "blockchain",
+    "language": "TypeScript, Solidity",
+    "likes": 10,
+    "forks": 2,
+    "tags": ["Smart Contract", "Blockchain", "Security"]
+  },
+  {
+    "title": "Annocrop",
+    "description": "An AI-driven crop price prediction and analysis system that helps farmers accurately predict market prices for their crops while providing essential insights through image-based crop analysis.",
+    "source": "https://github.com/pkprajapati7402/AnnoCrop",
+    "demo": "https://anno-crop.vercel.app/",
+    "platform": "ai",
+    "language": "TypeScript, ML, GenAI",
+    "likes": 0,
+    "forks": 0,
+    "tags": ["Machine Learning", "Deep Learning", "GenAI"]
+  },
+  {
+    "title": "Nazeon",
+    "description": "Cyberpunk Themed Terminal Emulator. Built on top for Hyper.js Terminals",
+    "source": "https://github.com/pkprajapati7402/Nazeon",
+    "demo": "https://nazeon.vercel.app/",
+    "platform": "tools",
+    "language": "Javascript, Rust",
+    "likes": 1,
+    "forks": 2,
+    "tags": ["Terminal Emulator", "Cyberpunk", "Developer Tools"]
+  },
+  {
+    "title": "NFT Gaming Educhain",
+    "description": "This project allows users to watch Twitch streams, place bets on live eSports games, and earn tokens. Upon accumulating 10N tokens, users can mint a free ticket to the next live eSports game. These tickets can be sold or purchased from other users, creating an engaging, blockchain-integrated gaming experience.",
+    "source": "https://github.com/pkprajapati7402/NFT-Gaming-Edu-Chain",
+    "demo": "https://marketbasemint.vercel.app/",
+    "platform": "blockchain",
+    "language": "TypeScript, Solidity",
+    "likes": 10,
+    "forks": 2,
+    "tags": ["Smart Contract", "Blockchain", "Gaming NFT"]
+  },
+  {
+    "title": "GitHub Bot",
+    "description": "This script automates the process of generating random numbers of Git commits on random days within a specified date range. It is built using Node.js and leverages several npm packages for functionality.",
+    "demo": "https://pkprajapati7402.github.io/gitbot-code/",
+    "platform": "tools",
+    "language": "Javascript, GitHub",
+    "likes": 2,
+    "forks": 1,
+    "tags": ["Developer Tools", "Sysnthesizer", "Bash", "GIT"]
+  },
+  {
+    "title": "Anonymous Feedback dApp",
+    "description": "Anonymouse Feedback dApp is a decentralized application on the Steller blockchain that allows users to submit anonymous feedback. Each feedback is assigned a unique ID by the smart contract, ensuring privacy and secure access. It integrates with Freighter wallet and features a simple, user-friendly interface.",
+    "source": "https://github.com/pkprajapati7402/Anonymous-Feedback-Blockchain",
+    "platform": "blockchain",
+    "language": "Rust, ReactJs",
+    "likes": 4,
+    "forks": 0,
+    "tags": ["Smart Contract", "Web3", "Freight Wallet"]
+  },
+  {
+    "title": "CLI Based Password Manager",
+    "description": "Anonymouse Feedback dApp is a decentralized application on the Steller blockchain that allows users to submit anonymous feedback. Each feedback is assigned a unique ID by the smart contract, ensuring privacy and secure access. It integrates with Freighter wallet and features a simple, user-friendly interface.",
+    "source": "https://github.com/pkprajapati7402/Password-manager",
+    "platform": "tools",
+    "language": "C++, Shell",
+    "likes": 4,
+    "forks": 0,
+    "tags": ["Security", "Command Line", "Encryption"]
+  }
+]

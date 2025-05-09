@@ -1,0 +1,23 @@
+[
+    {
+      "title": "Portfolio Website",
+      "description": "A personal portfolio showcasing my projects and skills.",
+      "source": "https://github.com/username/portfolio",
+      "demo": "https://portfolio.example.com",
+      "platform": "github"
+    },
+    {
+      "title": "E-commerce App",
+      "description": "A scalable e-commerce platform with React and Node.js.",
+      "source": "https://github.com/username/ecommerce-app",
+      "demo": "https://ecommerce.example.com",
+      "platform": "github"
+    },
+    {
+      "title": "Research Paper Analysis",
+      "description": "A tool for analyzing research papers using AI.",
+      "source": "https://www.researchgate.net/publication/123456789",
+      "demo": "https://research-analysis.example.com",
+      "platform": "researchgate"
+    }
+  ]
