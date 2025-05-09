@@ -1,0 +1,6 @@
+# Allow all search engines to crawl the site
+User-agent: *
+Disallow:
+
+# Specify the location of the sitemap
+Sitemap: https://yourwebsite.vercel.app/sitemap.xml
