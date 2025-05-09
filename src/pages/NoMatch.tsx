@@ -167,7 +167,7 @@ export default function NoMatch() {
           >
             <Button
               component={Link}
-              to="https://prince-sob.vercel.app/"
+              to="https://princeprajapati.tech/"
               target="_blank"
               size="lg"
               variant="outlined"
