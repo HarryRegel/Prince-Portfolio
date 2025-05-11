@@ -105,5 +105,36 @@
     "likes": 4,
     "forks": 0,
     "tags": ["Security", "Command Line", "Encryption"]
+  },
+  {
+    "title": "AuditFi",
+    "description": "Next-generation smart contract security powered by AI, delivering instant, on-chain audit reports across multiple networks.",
+    "source": "https://github.com/pkprajapati7402/AuditFi",
+    "demo": "https://auditfi-edu.netlify.app/",
+    "platform": "blockchain",
+    "language": "Solidity, NextJS",
+    "likes": 0,
+    "forks": 1,
+    "tags": ["Security", "Smart Contract", "GenAI", "Blockchain"]
+  },
+  {
+    "title": "Real Time Emotion Recognition Model",
+    "description": "Research Paper: Designing a real time emotion recognition model usin DCNN, Published in DTC Journel of Computational Intelligence, Vol-3, Issue-2",
+    "source": "https://jci.delhitechnicalcampus.ac.in/wp-content/uploads/2025/01/designing-a-real-time-emotion-recognition-model-using-dcnn.pdf",
+    "platform": "researchgate",
+    "language": "Deep Learning, DCNN, Python",
+    "likes": 2,
+    "forks": 2,
+    "tags": ["Machine Learning", "Deep Learning", "DCNN"]
+  },
+  {
+    "title": "MindMedix Research Paper",
+    "description": "An AI-Powerd Platform for Neurological Diagnosis and Personalized Treatment.",
+    "source": "https://ieeexplore.ieee.org/Xplore/home.jsp",
+    "platform": "researchgate",
+    "language": "Deep Learning, DCNN, Python",
+    "likes": 2,
+    "forks": 2,
+    "tags": ["Deep Learning", "Gen-AI", "NLP", "Healthcare"]
   }
 ]
