@@ -136,5 +136,15 @@
     "likes": 2,
     "forks": 2,
     "tags": ["Deep Learning", "Gen-AI", "NLP", "Healthcare"]
+  },
+  {
+    "title": "Profile Avatar Generator",
+    "description": "Avatar is a web-based SVG avatar generator designed for creating variations of a specific profile picture. It allows users to easily adjust the color palette of their avatar, making it an ideal tool for personalizing and generating different versions of one's own profile picture. While it offers flexibility in color customization, it does not support altering the avatar's fundamental design or structure.",
+    "demo": "https://avatar-generator-flax.vercel.app/?primary=%23FC704D&secondary=%2360b3c8&tonal=%23ffb7a2&rounding=circle",
+    "platform": "tools",
+    "language": "NextJs, ReactJS, Tools",
+    "likes": 2,
+    "forks": 2,
+    "tags": ["Dev Tools", "API"]
   }
 ]
