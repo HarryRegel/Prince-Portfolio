@@ -3,4 +3,4 @@ User-agent: *
 Disallow:
 
 # Specify the location of the sitemap
-Sitemap: https://yourwebsite.vercel.app/sitemap.xml
+Sitemap: https://www.princeprajapati.tech/sitemap.xml
