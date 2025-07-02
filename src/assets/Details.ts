@@ -2,7 +2,7 @@ import ggsipu from "@/assets/icons/ggsipu.png";
 import fiverr from "@/assets/icons/fiverr.png";
 import google from "@/assets/icons/google.png";
 import codesoftlab from "@/assets/icons/codesoftlab.png";
-import lokachakra from "@/assets/icons/lokachakra.png";
+import lokachakra from "@/assets/icons/lokachakra.jpg";
 
 const details = {
   name: {
