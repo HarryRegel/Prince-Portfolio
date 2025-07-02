@@ -2,6 +2,7 @@ import ggsipu from "@/assets/icons/ggsipu.png";
 import fiverr from "@/assets/icons/fiverr.png";
 import google from "@/assets/icons/google.png";
 import codesoftlab from "@/assets/icons/codesoftlab.png";
+import lokachakra from "@/assets/icons/lokachakra.png";
 
 const details = {
   name: {
@@ -25,6 +26,31 @@ const details = {
     },
   ],
   experience: [
+    {
+      company: "Lokachakra",
+      url: "https://lokachakra.in/",
+      icon: lokachakra,
+      iconMin: lokachakra,
+      location: "Remote",
+      contract: "Full-time",
+      position: "Software Developer Intern",
+      start: "Jun 2025",
+      end: "Present",
+      description: "Contributing to the development of decentralized blockchain-based applications, enhancing smart contract functionality using Rust, and collaborating with cross-functional teams to maintain full-stack systems and decentralized storage solutions.",
+      skills: [
+        "Blockchain",
+        "Smart Contracts",
+        "Rust",
+        "Full Stack Development",
+        "Next.js",
+        "Decentralized Database",
+        "Team Collaboration",
+        "Git & GitHub",
+        "API Integration",
+        "Web3.js",
+        "Solidity Basics"
+      ],
+    },
     {
       company: "Google Developer Students Club",
       url: "https://developers.google.com/community",
