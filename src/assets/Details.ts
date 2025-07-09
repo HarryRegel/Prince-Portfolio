@@ -109,7 +109,7 @@ const details = {
   languages: [
     {
       name: "Hindi",
-      level: "A",
+      level: "C2",
       native: true,
     },
     {
@@ -121,8 +121,8 @@ const details = {
     location: "Delhi, India",
     email: "pkprajapati7402@gmail.com",
     phone: "+91 7065136562",
-    website: "https://princeprajapati.me/",
-    linkedin: "https://www.linkedin.com/in/prince-kumar-prajapati",
+    website: "https://alfaceti.me/",
+    linkedin: "https://www.linkedin.com/in/princekprajapati",
     github: "https://www.github.com/pkprajapati7402",
     researchgate: "https://orcid.org/0009-0004-2368-4561",
     gitlab: "https://www.gitlab.com/pkprajapati7402",
